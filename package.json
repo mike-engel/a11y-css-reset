@@ -1,0 +1,26 @@
+{
+  "name": "a11y-css-reset",
+  "version": "1.0.0-rc1",
+  "description": "Global CSS rules to improve accessibility in your site and make your life easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike-engel/a11y-css-reset.git"
+  },
+  "keywords": [
+    "a11y",
+    "css",
+    "reset",
+    "import",
+    "accessibility"
+  ],
+  "author": "Mike Engel <mike@mike-engel.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mike-engel/a11y-css-reset/issues"
+  },
+  "homepage": "https://github.com/mike-engel/a11y-css-reset#readme"
+}
