@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+## 1.0.0-rc3
+
+### Fixes
+
+- Limit the amount that `.plain-list` resets
+
 ## 1.0.0-rc2
 
 ### New features
