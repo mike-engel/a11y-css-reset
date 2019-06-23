@@ -1,6 +1,6 @@
 {
   "name": "a11y-css-reset",
-  "version": "1.0.0-rc2",
+  "version": "1.0.0-rc3",
   "description": "Global CSS rules to improve accessibility in your site and make your life easier",
   "main": "index.js",
   "scripts": {
