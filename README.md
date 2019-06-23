@@ -108,3 +108,19 @@ Issues and pull requests are welcome, but because this is an interview test proj
 This project is pure CSS—no preprocessing, no development environment to setup, nada! Just plain ol' CSS.
 
 ## [License](LICENSE.md)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.mike-engel.com"><img src="https://avatars0.githubusercontent.com/u/464447?v=4" width="100px;" alt="Mike Engel"/><br /><sub><b>Mike Engel</b></sub></a><br /><a href="#question-mike-engel" title="Answering Questions">💬</a> <a href="https://github.com/mike-engel/a11y-css-reset/issues?q=author%3Amike-engel" title="Bug reports">🐛</a> <a href="https://github.com/mike-engel/a11y-css-reset/commits?author=mike-engel" title="Code">💻</a> <a href="#review-mike-engel" title="Reviewed Pull Requests">👀</a> <a href="#maintenance-mike-engel" title="Maintenance">🚧</a> <a href="#infra-mike-engel" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#example-mike-engel" title="Examples">💡</a> <a href="https://github.com/mike-engel/a11y-css-reset/commits?author=mike-engel" title="Documentation">📖</a> <a href="#ideas-mike-engel" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

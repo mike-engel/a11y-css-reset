@@ -1,0 +1,32 @@
+{
+  "projectName": "a11y-css-reset",
+  "projectOwner": "mike-engel",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "mike-engel",
+      "name": "Mike Engel",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/464447?v=4",
+      "profile": "https://www.mike-engel.com",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "review",
+        "maintenance",
+        "infra",
+        "example",
+        "doc",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
