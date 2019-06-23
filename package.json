@@ -4,6 +4,7 @@
   "description": "Global CSS rules to improve accessibility in your site and make your life easier",
   "main": "index.js",
   "scripts": {
+    "prepublishOnly": "minify combo.css > combo.min.css;minify a11y.css > a11y.min.css;minify reset.css > reset.min.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/mike-engel/a11y-css-reset/issues"
   },
-  "homepage": "https://github.com/mike-engel/a11y-css-reset#readme"
+  "homepage": "https://github.com/mike-engel/a11y-css-reset#readme",
+  "devDependencies": {
+    "minify": "^4.1.2"
+  }
 }
