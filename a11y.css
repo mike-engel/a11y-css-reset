@@ -18,6 +18,13 @@
   margin: -1px;
 }
 
+/* https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html */
+.plain-list {
+  list-style: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'/%3E");
+  margin: 0;
+  padding: 0;
+}
+
 /* prettier-ignore */
 @media(prefers-reduced-motion: reduce) {
   *,

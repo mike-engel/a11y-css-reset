@@ -3,5 +3,6 @@ Thumbs.db
 
 *.orig
 *.min.css
+combo.css
 
 node_modules/

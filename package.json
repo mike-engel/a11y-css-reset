@@ -4,7 +4,9 @@
   "description": "Global CSS rules to improve accessibility in your site and make your life easier",
   "main": "index.js",
   "scripts": {
-    "prepublishOnly": "minify combo.css > combo.min.css;minify a11y.css > a11y.min.css;minify reset.css > reset.min.css",
+    "combine": "cat reset.css a11y.css > combo.css",
+    "minify": "minify combo.css > combo.min.css;minify a11y.css > a11y.min.css;minify reset.css > reset.min.css",
+    "prepublishOnly": "npm run combine && npm run minify",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
