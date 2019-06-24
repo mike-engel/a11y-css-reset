@@ -20,6 +20,9 @@
     "import",
     "accessibility"
   ],
+  "files": [
+    "*.css"
+  ],
   "author": "Mike Engel <mike@mike-engel.com>",
   "license": "MIT",
   "bugs": {
