@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 1.0.0
+
+Nothing new here, just a 1.0 release. Enjoy!
+
 ## 1.0.0-rc3
 
 ### Fixes
