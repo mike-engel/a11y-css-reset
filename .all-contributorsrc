@@ -26,6 +26,15 @@
         "doc",
         "ideas"
       ]
+    },
+    {
+      "login": "lukehler",
+      "name": "Luke Ehler",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/25492369?v=4",
+      "profile": "https://github.com/lukehler",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
