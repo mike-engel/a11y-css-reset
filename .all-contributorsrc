@@ -35,6 +35,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "qpowell",
+      "name": "Quinten Powell",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1351050?v=4",
+      "profile": "https://github.com/qpowell",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
