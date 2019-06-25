@@ -99,7 +99,7 @@ import "~a11y-css-reset/reset.css";
 import "~a11y-css-reset/combo.css";
 ```
 
-## Contibuting
+## Contributing
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
