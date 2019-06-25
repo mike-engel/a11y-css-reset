@@ -103,7 +103,7 @@ import "~a11y-css-reset/combo.css";
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
-Issues and pull requests are welcome, but because this is an interview test project, I may not respond and/or merge PRs.
+Issues and pull requests are welcome!.
 
 This project is pure CSS—no preprocessing, no development environment to setup, nada! Just plain ol' CSS.
 
