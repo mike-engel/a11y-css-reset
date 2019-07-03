@@ -1,6 +1,6 @@
 *:focus:not(:focus-visible),
-*:before:focus:not(:focus-visible),
-*:after:focus:not(:focus-visible) {
+*::before:focus:not(:focus-visible),
+*::after:focus:not(:focus-visible) {
   outline: none;
 }
 
@@ -27,8 +27,8 @@
 /* prettier-ignore */
 @media(prefers-reduced-motion: reduce) {
   *,
-  *:before,
-  *:after {
+  *::before,
+  *::after {
     transition: none !important;
     animation: none !important;
     scroll-behavior: auto !important;
