@@ -44,6 +44,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "toastal",
+      "name": "toastal",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/561087?v=4",
+      "profile": "https://gitlab.com/toastal",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
