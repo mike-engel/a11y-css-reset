@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+## 1.1.1
+
+### Fixes
+
+- Increase browser support by using `::` over `:` for pseudo-selectors [#6](https://github.com/mike-engel/a11y-css-reset/pull/6)
+- Change the body height to be a `min-height` instead of `height` for better flexibility [#7](https://github.com/mike-engel/a11y-css-reset/pull/7)
+
 ## 1.1.0
 
 ### New features
