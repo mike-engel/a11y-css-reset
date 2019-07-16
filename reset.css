@@ -1,8 +1,8 @@
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
+/* apply a natural box layout model to all elements, but allowing components to change
+ * https://www.paulirish.com/2012/box-sizing-border-box-ftw/
+ */
+html                 { box-sizing: border-box; }
+*, *:before, *:after { box-sizing: inherit; }
 
 html,
 body {
