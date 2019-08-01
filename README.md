@@ -122,7 +122,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/qpowell"><img src="https://avatars2.githubusercontent.com/u/1351050?v=4" width="100px;" alt="Quinten Powell"/><br /><sub><b>Quinten Powell</b></sub></a><br /><a href="https://github.com/mike-engel/a11y-css-reset/commits?author=qpowell" title="Documentation">📖</a></td>
     <td align="center"><a href="https://gitlab.com/toastal"><img src="https://avatars2.githubusercontent.com/u/561087?v=4" width="100px;" alt="toastal"/><br /><sub><b>toastal</b></sub></a><br /><a href="https://github.com/mike-engel/a11y-css-reset/commits?author=toastal" title="Code">💻</a></td>
     <td align="center"><a href="http://notiv.org/"><img src="https://avatars0.githubusercontent.com/u/10743009?v=4" width="100px;" alt="Mikhail Novikov"/><br /><sub><b>Mikhail Novikov</b></sub></a><br /><a href="https://github.com/mike-engel/a11y-css-reset/commits?author=notiv-nt" title="Code">💻</a></td>
-    <td align="center"><a href="http://www.offirmo.net/"><img src="https://avatars0.githubusercontent.com/u/603503?v=4" width="100px;" alt="offirmo"/><br /><sub><b>offirmo</b></sub></a><br /><a href="#ideas-Offirmo" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://www.offirmo.net/"><img src="https://avatars0.githubusercontent.com/u/603503?v=4" width="100px;" alt="offirmo"/><br /><sub><b>offirmo</b></sub></a><br /><a href="#ideas-Offirmo" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/mike-engel/a11y-css-reset/commits?author=Offirmo" title="Code">💻</a></td>
   </tr>
 </table>
 
