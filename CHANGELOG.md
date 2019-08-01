@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+## 1.2.0
+
+### New features
+
+- `border-box` is now easier to override [#10](https://github.com/mike-engel/a11y-css-reset/issues/10), [#12](https://github.com/mike-engel/a11y-css-reset/issues/12)
+
 ## 1.1.1
 
 ### Fixes
